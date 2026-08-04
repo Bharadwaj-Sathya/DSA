@@ -1,0 +1,32 @@
+# IDEs and editors
+.idea/
+.vscode/
+*.iml
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.venv/
+venv/
+env/
+
+# Java / JVM
+*.class
+*.jar
+*.war
+*.ear
+
+# Build output
+build/
+dist/
+out/
+target/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
